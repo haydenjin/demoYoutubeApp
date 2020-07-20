@@ -11,7 +11,7 @@ import Foundation
 // Request and use your own api key and playlist id for the application to work
 // Uncomment the code below
 
-
+/*
 struct Constants {
     
     static var API_KEY = ""
@@ -20,4 +20,4 @@ struct Constants {
     
     static var VIDEOCELLID = "VideoCell"
 }
-
+*/
